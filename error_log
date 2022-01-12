@@ -1,0 +1,24 @@
+[07-Jun-2021 03:56:14 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/bsg99iqecckk/public_html/itr/app/User.php on line 10
+[07-Jun-2021 03:57:57 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/bsg99iqecckk/public_html/itr/app/User.php on line 10
+[07-Jun-2021 03:58:07 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/bsg99iqecckk/public_html/itr/app/User.php on line 10
+[07-Jun-2021 03:59:00 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/bsg99iqecckk/public_html/itr/app/User.php on line 10
+[07-Jun-2021 03:59:30 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/bsg99iqecckk/public_html/itr/app/User.php on line 10
+[07-Jun-2021 04:00:38 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/bsg99iqecckk/public_html/itr/app/User.php on line 10
+[07-Jun-2021 04:00:55 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/bsg99iqecckk/public_html/itr/app/User.php on line 10
+[07-Jun-2021 04:03:24 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/bsg99iqecckk/public_html/itr/app/User.php on line 10
+[13-Jun-2021 04:55:42 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ';' in /home/bsg99iqecckk/public_html/itr/app/Exceptions/Handler.php on line 53
+[13-Jun-2021 04:55:42 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Jun-2021 04:55:52 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ';' in /home/bsg99iqecckk/public_html/itr/app/Exceptions/Handler.php on line 53
+[13-Jun-2021 04:55:52 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Jun-2021 04:56:01 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ';' in /home/bsg99iqecckk/public_html/itr/app/Exceptions/Handler.php on line 53
+[13-Jun-2021 04:56:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Jun-2021 04:57:39 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ';' in /home/bsg99iqecckk/public_html/itr/app/Exceptions/Handler.php on line 54
+[13-Jun-2021 04:57:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Jun-2021 05:08:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function send() on null in /home/bsg99iqecckk/public_html/itr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php:123
+Stack trace:
+#0 /home/bsg99iqecckk/public_html/itr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(100): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 {main}
+  thrown in /home/bsg99iqecckk/public_html/itr/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 123
+[13-Jun-2021 05:38:32 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/bsg99iqecckk/public_html/itr/routes/api.php on line 7
+[08-Jan-2022 14:22:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/bsg99iqecckk/public_html/itr/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 183
